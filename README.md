@@ -22,4 +22,4 @@ Generar insights sobre cómo la movilidad urbana puede influir en la productivid
 
 📂 Contenido del repositorio
 notebooks/analisis_movilidad_sprint5.ipynb → Notebook principal con todo el proceso de análisis
-data/dataset_final_2024.csv → Dataset unificado y depurado (resultado final)
+ladb_mobility_economy_2024_clean.csv → Dataset unificado y depurado (resultado final)
