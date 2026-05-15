@@ -21,7 +21,7 @@ Población total
 Generar insights sobre cómo la movilidad urbana puede influir en la productividad económica para identificar ciudades donde invertir en infraestructura de transporte.
 
 📂 Contenido del repositorio
-notebooks/analisis_movilidad_sprint5.ipynb → Notebook principal con todo el proceso de análisis
+S5_ladb_mobility_economy_project_student.ipynb → Notebook principal con todo el proceso de análisis
 ladb_mobility_economy_2024_clean.csv → Dataset unificado y depurado (resultado final)
 
 ▶ Cómo abrir el notebook en Google Colab
@@ -29,11 +29,31 @@ Haz clic en el siguiente botón:
 
 [Open In Colab](https://colab.research.google.com/)
 
-🔄 Flujo del proyecto
-Cargar y explorar datasets → Identificar estructura y tipos de datos
-Limpiar y corregir formatos → Estandarizar nombres y tipos de datos
-Filtrar año 2024 → Trabajar con el período más reciente
-Calcular promedios de tráfico → Consolidar datos por ciudad
-Combinar datasets → Unir información de tráfico y economía
-Visualizar relaciones → Explorar patrones entre variables
-Elaborar informe final → Generar insights y reflexiones
+## 📘 Cómo reproducir el análisis
+
+1. Abre `S5_ladb_mobility_economy_project_student.ipynb`
+2. Ejecuta las celdas en orden
+3. El notebook carga automáticamente los datasets
+
+## 🛠️ Herramientas utilizadas
+
+- **Python**: pandas, numpy, seaborn, matplotlib
+- **Jupyter Notebook**
+- **Datasets**: TomTom Traffic Index y OECD Cities
+
+## 🧠 Metodología
+
+1. Limpieza y estandarización de datos
+2. Unión de datasets por ciudad
+3. Filtrado para el año 2024
+4. Cálculo de indicadores agregados
+5. Análisis exploratorio y visualizaciones
+6. Identificación de patrones y correlaciones
+
+## 📈 Principales hallazgos
+
+El análisis de 15 ciudades latinoamericanas en 2024 muestra que no existe una relación directa entre el PIB per cápita y los niveles de congestión vehicular. 
+
+## 🎯 Objetivo del banco
+
+Identificar ciudades donde invertir en infraestructura de transporte para aumentar la productividad y el bienestar de la población.
