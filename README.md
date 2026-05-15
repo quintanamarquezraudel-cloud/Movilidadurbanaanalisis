@@ -27,7 +27,7 @@ ladb_mobility_economy_2024_clean.csv → Dataset unificado y depurado (resultado
 ▶ Cómo abrir el notebook en Google Colab
 Haz clic en el siguiente botón:
 
-Open In Colab
+[Open In Colab](https://colab.research.google.com/)
 
 🔄 Flujo del proyecto
 Cargar y explorar datasets → Identificar estructura y tipos de datos
