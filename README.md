@@ -27,7 +27,7 @@ ladb_mobility_economy_2024_clean.csv → Dataset unificado y depurado (resultado
 ▶ Cómo abrir el notebook en Google Colab
 Haz clic en el siguiente botón:
 
-[[Open In Colab](https://colab.research.google.com/)](https://colab.research.google.com/github/quintanamarquezraudel-cloud/Movilidadurbanaanalisis/blob/main/S5_ladb_mobility_economy_project_student.ipynb)
+[[Open In Colab(https://colab.research.google.com/)](https://colab.research.google.com/github/quintanamarquezraudel-cloud/Movilidadurbanaanalisis/blob/main/S5_ladb_mobility_economy_project_student.ipynb)]
 
 ## 📘 Cómo reproducir el análisis
 
