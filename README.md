@@ -23,3 +23,17 @@ Generar insights sobre cómo la movilidad urbana puede influir en la productivid
 📂 Contenido del repositorio
 notebooks/analisis_movilidad_sprint5.ipynb → Notebook principal con todo el proceso de análisis
 ladb_mobility_economy_2024_clean.csv → Dataset unificado y depurado (resultado final)
+
+▶ Cómo abrir el notebook en Google Colab
+Haz clic en el siguiente botón:
+
+Open In Colab
+
+🔄 Flujo del proyecto
+Cargar y explorar datasets → Identificar estructura y tipos de datos
+Limpiar y corregir formatos → Estandarizar nombres y tipos de datos
+Filtrar año 2024 → Trabajar con el período más reciente
+Calcular promedios de tráfico → Consolidar datos por ciudad
+Combinar datasets → Unir información de tráfico y economía
+Visualizar relaciones → Explorar patrones entre variables
+Elaborar informe final → Generar insights y reflexiones
